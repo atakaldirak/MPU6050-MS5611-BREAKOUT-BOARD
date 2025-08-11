@@ -1,4 +1,4 @@
-MPU6050 + MS5611 Breakout Board
+# MPU6050 + MS5611 Breakout Board
 This repository contains my design files for a breakout board featuring the MPU6050 6-axis accelerometer/gyroscope and the MS5611-01BA03 high-resolution altimeter/pressure sensor. This board is designed to be compact and easy to integrate into various projects, such as drones, rockets, or any application requiring precise motion and atmospheric data.
 
 ## Features
@@ -21,39 +21,34 @@ This repository contains all the necessary design files for the breakout board:
 
 Below are the technical drawing of the PCB and actual photos of the assembled board.
 
-### Assembled Board
-
-<table>
-  <tr>
-    <td><img src="Images/3D Model.jpg" width="400" alt="3D Model of PCB Front View"></td>
-    <td><img src="Images/Completed PCB_1.jpg" width="400" alt="Assembled PCB Front View"></td>
-  </tr>
-  <tr>
-    <td><img src="Images/Completed PCB_2.jpg" width="400" alt="Powered On PCB Front View"></td>
-    <td><img src="Images/Panelized.jpg" width="400" alt="Panelized PCB Pack"></td>
-  </tr>
-</table>
-
 ### Technical Drawing
 
-![Technical Drawing of the PCB](teknikresimolculu.pdf)
+<img src="Images/Technical Drawing of PCB.png" width="800" alt="Technical Drawing of The PCB">
+
+### Assembled Board
+
+<img src="Images/3D Model.jpg" width="800" alt="3D Model of PCB Front View">
+<img src="Images/Completed PCB_1.jpg" width="800" alt="Assembled PCB Front View">
+<img src="Images/Completed PCB_2.jpg" width="800" alt="Powered On PCB Front View">
+<img src="Images/Panelized.jpg" width="800" alt="Panelized PCB Pack">
 
 Repository Contents
-SCH_ms5611+mpu6050_2025-08-11.json: The schematic design file.
+## Schematic + PCB Layout/SCH_ms5611+mpu6050_2025-08-11.json: The schematic design file (EasyEda).
 
-PCB_MPU6050-+-MS5611-BREAKOUT-BOARD-PCB_2025-08-11.json: The PCB layout design file.
+## Schematic + PCB Layout/PCB_MPU6050-+-MS5611-BREAKOUT-BOARD-PCB_2025-08-11.json: The PCB layout design file (EasyEda). 
 
-images/: This directory contains images of the project, including the technical drawing and photos of the assembled board.
+## finalgerberms_mpuyespanelize.zip: Ready to order gerber files of the PCB.
 
-Technical Drawing and Assembled Board
-Below you can find the technical drawing and images of the populated PCB.
+## images/: This directory contains images of the project, including the technical drawing and photos of the assembled board.
 
 
 Usage
 To use this board in your project, you can download the schematic and PCB files and use them with your preferred EDA software. The I²C pins can be connected to any microcontroller with an I²C interface. Libraries for both the MPU6050 and MS5611 are widely available for platforms like Arduino, ESP32, and Raspberry Pi.
 
+## Also i can provide the PCB for you. You can contact me from my mail address: atakldrkpersonal@gmail.com
+
 Contribution
 Feel free to open an issue or submit a pull request if you have suggestions or improvements.
 
 License
-This project is licensed under the [Specify a License, e.g., MIT License].
+This project is licensed under the MIT License.
