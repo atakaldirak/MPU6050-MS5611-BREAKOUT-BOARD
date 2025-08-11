@@ -23,14 +23,14 @@ Below are the technical drawing of the PCB and actual photos of the assembled bo
 
 ### Technical Drawing
 
-![Technical Drawing of the PCB](image_5cd9bc.png)
+![Technical Drawing of the PCB](teknikresimolculu.pdf)
 
 ### Assembled Board
 
-<img src="Images/3D Model.jpg" width="400" alt="3D Model of PCB Front View">
-<img src="Images/Completed PCB_1.jpg" width="400" alt="Assembled PCB Front View">
-<img src="Images/Completed PCB_2.jpg" width="400" alt="Powered On PCB Front View">
-<img src="Images/Panelized.jpg" width="400" alt="Panelized PCB Pack">
+<img src="Images/3D Model.jpg" width="800" alt="3D Model of PCB Front View">
+<img src="Images/Completed PCB_1.jpg" width="800" alt="Assembled PCB Front View">
+<img src="Images/Completed PCB_2.jpg" width="800" alt="Powered On PCB Front View">
+<img src="Images/Panelized.jpg" width="800" alt="Panelized PCB Pack">
 
 Repository Contents
 SCH_ms5611+mpu6050_2025-08-11.json: The schematic design file.
