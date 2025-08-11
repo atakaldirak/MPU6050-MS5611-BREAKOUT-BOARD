@@ -24,7 +24,7 @@ This repository contains my design files for a breakout board featuring the **MP
 
 ### Technical Drawing
 
-<img src="Images/Technical Drawing of PCB.png" width="900" alt="3D Model of PCB Front View">
+<img src="Images/Technical Drawing of PCB.png" width="830" alt="3D Model of PCB Front View">
 
 ### Assembled Board
 
@@ -45,10 +45,10 @@ This repository contains my design files for a breakout board featuring the **MP
 
 <table>
   <tr>
-    <td><img src="Images/SCHEMATIC.png" width="800" alt="Schematic"></td>
+    <td><img src="Images/SCHEMATIC.png" width="830" alt="Schematic"></td>
   </tr>
   <tr>
-    <td><img src="Images/orgPCB.png" width="900" alt="PCB Layout"></td>
+    <td><img src="Images/PCB.png" width="830" alt="PCB Layout"></td>
   </tr>
 </table>
 
