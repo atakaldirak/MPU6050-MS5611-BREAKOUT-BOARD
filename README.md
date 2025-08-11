@@ -23,7 +23,7 @@ Below are the technical drawing of the PCB and actual photos of the assembled bo
 
 ### Technical Drawing
 
-![Technical Drawing of the PCB](teknikresimolculu.pdf)
+<img src="Images/Technical Drawing of PCB.png" width="800" alt="Technical Drawing of The PCB">
 
 ### Assembled Board
 
