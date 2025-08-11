@@ -21,16 +21,22 @@ This repository contains all the necessary design files for the breakout board:
 
 Below are the technical drawing of the PCB and actual photos of the assembled board.
 
-### Technical Drawing
-
-<img src="Images/Technical Drawing of PCB.png" width="800" alt="Technical Drawing of The PCB">
-
 ### Assembled Board
 
-<img src="Images/3D Model.jpg" width="800" alt="3D Model of PCB Front View">
-<img src="Images/Completed PCB_1.jpg" width="800" alt="Assembled PCB Front View">
-<img src="Images/Completed PCB_2.jpg" width="800" alt="Powered On PCB Front View">
-<img src="Images/Panelized.jpg" width="800" alt="Panelized PCB Pack">
+<table>
+  <tr>
+    <td><img src="Images/3D Model.jpg" width="400" alt="3D Model of PCB Front View"></td>
+    <td><img src="Images/Completed PCB_1.jpg" width="400" alt="Assembled PCB Front View"></td>
+  </tr>
+  <tr>
+    <td><img src="Images/Completed PCB_2.jpg" width="400" alt="Powered On PCB Front View"></td>
+    <td><img src="Images/Panelized.jpg" width="400" alt="Panelized PCB Pack"></td>
+  </tr>
+</table>
+
+### Technical Drawing
+
+![Technical Drawing of the PCB](teknikresimolculu.pdf)
 
 Repository Contents
 SCH_ms5611+mpu6050_2025-08-11.json: The schematic design file.
